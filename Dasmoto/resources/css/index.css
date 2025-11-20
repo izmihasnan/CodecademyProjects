@@ -1,0 +1,56 @@
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    /* image path is relative to this CSS file (resources/css/), so go up one level to resources/img */
+    background-image: url("../img/pattern.jpeg");
+    background-size: cover;
+}
+
+h2  {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3  {
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+p   {
+    color: black;
+    text-align: left;
+}
+
+.price  {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.art-frames {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    font-family: Helvetica;
+}
+
+.paint  {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
